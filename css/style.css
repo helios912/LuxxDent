@@ -379,7 +379,6 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    z-index: 2;
 }
 
 .practice__name-doc {
@@ -1067,7 +1066,6 @@ body {
         align-items: center;
         gap: 30px;
         padding-top: 20px;
-        z-index: 10;
     }
     .nav__menu a {
         font-size: 20px;

@@ -1,3 +1,9 @@
+$(document).ready(function () {
+    $('.hamburger').click(function () {
+        $(this).toggleClass('is-active');
+    });
+});
+
 var swiper = new Swiper('.mySwiper', {
     slidesPerView: 3,
     spaceBetween: 30,
